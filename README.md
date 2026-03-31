@@ -12,3 +12,9 @@ I am learning how to create a repo, commit, and push to GitHub.
 4. Run `git status` to see what Git notices.
 5. Run `git add README.md` to stage the file.
 6. Run `git commit -m "Add initial README"` to create the first commit.
+
+## Command Notes
+
+- `git branch` shows local branches.
+- `git status` shows the current repo state.
+- `git switch -c <name>` creates and switches to a new branch.
